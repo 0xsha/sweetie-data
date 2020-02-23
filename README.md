@@ -118,7 +118,7 @@ The output is a cleaned JSON file. Here is an example of an exciting line.
 
 As we see, we successfully extracted an exploit for [thinkphp](https://www.exploit-db.com/exploits/46150).
 
-# Findings and conclusion
+# Findings
 
 There are too much data and endless possibility of extraction and analysis, but here are a few things that come into my mind when I want to draw a conclusion.
 
