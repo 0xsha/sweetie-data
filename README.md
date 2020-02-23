@@ -59,7 +59,7 @@ You can use [VirusTotal](https://developers.virustotal.com/reference) API for bu
 
 # Visualation
 
-E-pot uses Elastic Stack and [kiabana](https://www.elastic.co/kibana) dashboard .
+T-pot uses Elastic Stack and [kiabana](https://www.elastic.co/kibana) dashboard .
 
 ```
 Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack so you can do anything from tracking query load to understanding the way requests flow through your apps.
@@ -122,8 +122,7 @@ As we see, we successfully extracted an exploit for [thinkphp](https://www.explo
 
 There are too much data and endless possibility of extraction and analysis, but here are a few things that come into my mind when I want to draw a conclusion.
 
--- The number of malicious packets transferred a day is unbeliveble.
-
+- The number of malicious packets transferred a day is unbeliveble.
 - Fortunately, a big chunk of malicious actors are script kiddies, but somehow they still score in 2020
 - Very first computer attacks like brute forces are still a thing in 2020 when it comes to protocols like VNC and SQL SERVER.
 - Mixing security, ML, and data science can bring **"real"** next-generation defense results.
@@ -133,3 +132,7 @@ There are too much data and endless possibility of extraction and analysis, but 
 - Share it with whomever you belive can use it
 - Do the extra work and share your findings with community &hearts;
 - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W112I38)
+
+# Any ideas ?
+
+- me [at] 0xsha.io
