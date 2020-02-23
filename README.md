@@ -125,7 +125,7 @@ There are too much data and endless possibility of extraction and analysis, but 
 - The number of malicious packets transferred a day is unbeliveble.
 - Fortunately, a big chunk of malicious actors are script kiddies, but somehow they still score in 2020
 - Very first computer attacks like brute forces are still a thing in 2020 when it comes to protocols like VNC and SQL SERVER.
-- Mixing security, Machine learning, and data science can bring **"real"** next-generation defense results.
+- Mixing security, machine learning, and data science can bring **"real"** next-generation defense results.
 
 # How To Make more things like this happen?
 
