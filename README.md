@@ -59,7 +59,11 @@ You can use [VirusTotal](https://developers.virustotal.com/reference) API for bu
 
 # Visualation
 
-T-pot uses Elastic Stack and [kiabana](https://www.elastic.co/kibana) dashboard .
+Like T-pot you can use elastic stack and [kiabana](https://www.elastic.co/kibana) dashboard .
+
+![kibana](https://0xsha.io/storage/1-1577643083-QlNU0.png "one")
+![kibana](https://0xsha.io/storage/3-1577643086-s7C6A.png "two")
+![kibana](https://0xsha.io/storage/2-1577643084-oFCE4.png "three")
 
 ```
 Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack so you can do anything from tracking query load to understanding the way requests flow through your apps.
