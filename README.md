@@ -136,10 +136,10 @@ There are too much data and endless possibility of extraction and analysis, but 
 
 # References
 
-[Threat intelligence builing your citadel](https://0xsha.io/posts/threat-intelligence-building-your-citadel)
-[T-Pot](https://github.com/dtag-dev-sec/tpotce)
-[Pandas](https://pandas.pydata.org/)
-[Kibana](https://www.elastic.co/kibana)
+- [Threat intelligence builing your citadel](https://0xsha.io/posts/threat-intelligence-building-your-citadel)
+- [T-Pot](https://github.com/dtag-dev-sec/tpotce)
+- [Pandas](https://pandas.pydata.org/)
+- [Kibana](https://www.elastic.co/kibana)
 
 # Any ideas ?
 
