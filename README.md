@@ -1,6 +1,6 @@
 # Sweetie data
 
-This repo contains data of various honeypots mostly gathered with awsome [t-pot!](https://github.com/dtag-dev-sec/tpotce) . What to know what malicious actors are up to? Do you believe data is the only source of truth?
+This repo contains data of various honeypots mostly gathered with awsome [t-pot!](https://github.com/dtag-dev-sec/tpotce) . Want to know what malicious actors are up to? Do you believe data is the only source of truth?
 There you have it. Put on your sherlock hat and find the crime. This repo contains three months of data from 12/19 to 2/20.
 
 ## Who can uses these data
